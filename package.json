@@ -1,0 +1,26 @@
+{
+  "name": "current-temperature",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ranirizkiani/pweb"
+  },
+  "author": "ranirizkiani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranirizkiani/pweb"
+  },
+  "homepage": "https://github.com/ranirizkiani/pweb",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
